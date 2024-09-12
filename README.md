@@ -15,7 +15,7 @@ I work on developing software and building innovative applications. I love chall
 
 ### Projects I've Worked On
 1. **Project A** - A web application that helps users manage their time efficiently.
-   ![Project A](https://media.giphy.com/media/l2R0mUgK8Wg4XbRYI/giphy.gif)
+   ![Project A](https://iconscout.com/lottie-animation/software-engineer-10262801)
    
 2. **Project B** - A custom content management system.
    ![Project B](https://media.giphy.com/media/xTiTnhxJPWxt3Ry5d6/giphy.gif)
