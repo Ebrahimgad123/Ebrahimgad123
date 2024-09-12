@@ -1,26 +1,25 @@
 # README
 
-## مرحباً! أنا إبراهيم 👋
+## Hello! I'm Ibrahim 👋
 
-### عني
-أنا إبراهيم، أدرس البرمجة وأسعى لأن أصبح مهندس برمجيات متميز. 💪
+### About Me
+I'm Ibrahim, a passionate software engineering student aiming to become a skilled Software Engineer. 💪
 
-### ماذا أعمل
-أعمل على تطوير البرمجيات وبناء تطبيقات مبتكرة. أحب التحديات وأبحث دائماً عن طرق لتحسين مهاراتي وتعلم تقنيات جديدة.
+### What I Do
+I work on developing software and building innovative applications. I love challenges and am always looking for ways to enhance my skills and learn new technologies.
 
-### مهاراتي
-- **برمجة**: أحب استخدام لغات مثل Python، JavaScript، وJava.
-- **تطوير ويب**: أعمل مع تقنيات مثل HTML، CSS، وReact.
-- **إدارة قواعد البيانات**: خبرة في SQL وNoSQL.
+### Skills
+- **Programming**: Enjoy working with languages such as Python, JavaScript, and Java.
+- **Web Development**: Experienced with HTML, CSS, and React.
+- **Database Management**: Proficient in SQL and NoSQL.
 
-### مشاريع قمت بها
-1. **مشروع A** - تطبيق ويب يساعد المستخدمين في إدارة الوقت.
-   ![مشروع A](https://media.giphy.com/media/3o6ozpD5oTSLCa6r9a/giphy.gif)
+### Projects I've Worked On
+1. **Project A** - A web application that helps users manage their time efficiently.
+   ![Project A](https://media.giphy.com/media/3o6fJvC0iyj1D0tdB6/giphy.gif)
    
-2. **مشروع B** - نظام إدارة محتوى مخصص.
-   ![مشروع B](https://media.giphy.com/media/3o6fJvC0iyj1D0tdB6/giphy.gif)
+2. **Project B** - A custom content management system.
+   ![Project B](https://media.giphy.com/media/3o6ozpD5oTSLCa6r9a/giphy.gif)
 
-### كيفية التواصل معي
-يمكنك التواصل معي عبر البريد الإلكتروني: [email@example.com](mailto:email@example.com) أو عبر حسابي على [LinkedIn](https://www.linkedin.com/in/ibrahim).
-
+### How to Contact Me
+Feel free to reach out via email: [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim).
 
