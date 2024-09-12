@@ -21,5 +21,5 @@ I work on developing software and building innovative applications. I love chall
    ![Project B](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTE2ZjRtbndlMWE0NzFmc2F1eGNvcGZ5cTRzM2FlaWIxcmp1aDJhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp)
 
 ### How to Contact Me
-Feel free to reach out via email: [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim).
+Feel free to reach out via email: [email@example.com](ibrahim.abo.kahlil05@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ebrahim-gad-3b0484235/).
 
