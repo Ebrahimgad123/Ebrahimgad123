@@ -15,10 +15,10 @@ I work on developing software and building innovative applications. I love chall
 
 ### Projects I've Worked On
 1. **Project A** - A web application that helps users manage their time efficiently.
-   ![Project A](https://media.giphy.com/media/3o6fJvC0iyj1D0tdB6/giphy.gif)
+   ![Project A](https://media.giphy.com/media/l2R0mUgK8Wg4XbRYI/giphy.gif)
    
 2. **Project B** - A custom content management system.
-   ![Project B](https://media.giphy.com/media/3o6ozpD5oTSLCa6r9a/giphy.gif)
+   ![Project B](https://media.giphy.com/media/xTiTnhxJPWxt3Ry5d6/giphy.gif)
 
 ### How to Contact Me
 Feel free to reach out via email: [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim).
